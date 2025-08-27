@@ -19,6 +19,8 @@ JavaScript → lógica para calcular e atualizar as despesas em tempo real.
 
 # Como executar o projeto
 
+
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
